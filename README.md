@@ -1,16 +1,14 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 🍌
 
-<!--
-**Ruanpabloescobar/Ruanpabloescobar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Ruan Pablo
 
-Here are some ideas to get you started:
+- Estou estudando [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem Java Script.
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você pode entrar em contato comigo 📧
+
+rp.xepeiro@gmail.com
+
+![image](https://github.com/Ruanpabloescobar/Ruanpabloescobar/assets/174077639/18649c5b-8e75-4954-8f0a-6f6d283490cf)
+
